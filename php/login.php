@@ -13,7 +13,7 @@ $filas=mysqli_num_rows($resultado);
 
 if($filas){
   
-    header("location:../pages/inicio_Solmedi.php");
+    header("../pages/inicio_Solmedi.php");
 
 }else{
   echo '
