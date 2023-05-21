@@ -15,7 +15,7 @@
       echo'
       <script>
       alert("Correo ya registrado, intente nuevamente")
-      window.location = "../index.html"
+      window.location = "https://solmediweb.azurewebsites.net/"
       </script>
       ';
       exit();
@@ -25,7 +25,7 @@
       echo'
       <script>
       alert("Usuario ya registrado, intente nuevamente")
-      window.location = "../index.html"
+      window.location = "https://solmediweb.azurewebsites.net/"
       </script>
       ';
       exit();
@@ -37,7 +37,7 @@
       echo '
       <script>
         alert("Datos agregados correctamente")
-        window.location = "../index.html"
+        window.location = "https://solmediweb.azurewebsites.net/"
       </script>
       ';
   
@@ -45,7 +45,7 @@
     echo '
     <script>
       alert("Eror - No fue posible cargar los datos - intente nuevamente")
-      window.location = "../index.html"
+      window.location = "https://solmediweb.azurewebsites.net/"
     </script>
     
     ';
