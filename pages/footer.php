@@ -20,7 +20,7 @@
     <div class="container">
         <footer class="py-3 my-4">
           <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-                <li class="nav-item"><a href="../pages/inicio_Solmedi.html?#" class="nav-link px-2 text-muted">INICIO</a></li>
+                <li class="nav-item"><a href="../pages/inicio_Solmedi.html" class="nav-link px-2 text-muted">INICIO</a></li>
                 <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">SOBRE NOSOTROS</a></li>
                 <li class="nav-item"><a href="https://www.instagram.com/" class="nav-link px-2 text-muted">REDES</a></li>
                 <li class="nav-item"><a href="https://www.minsalud.gov.co/Paginas/politica-integral-de-atencion-en-salud.aspx" class="nav-link px-2 text-muted">POLITICAS</a></li>
